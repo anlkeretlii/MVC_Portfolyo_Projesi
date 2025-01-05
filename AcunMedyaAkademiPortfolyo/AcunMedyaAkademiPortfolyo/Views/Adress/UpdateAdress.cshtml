@@ -1,0 +1,27 @@
+﻿@model AcunMedyaAkademiPortfolyo.Models.Adress
+@{
+    ViewBag.Title = "UpdateAdress";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Adres Güncelle</h2>
+
+<form method="post">
+    <label>Adres ID</label>
+    <input type="text" class="form-control" name="AdressId" value="@Model.AdressId" />
+
+    <label>Adres</label>
+    <input type="text" class="form-control" name="Adress" value="@Model." />
+
+    <label>Telefon Numarası</label>
+    <input type="text" class="form-control" name="Phone" value="@Model.Phone" />
+
+    <label>Email</label>
+    <input type="text" class="form-control" name="Email" value="@Model.Email" />
+
+    <label>Web Site</label>
+    <input type="text" class="form-control" name="Website" value="@Model.Website" />
+
+    <br /><br />
+    <button class="btn btn-info">Adres Güncelle</button>
+</form>
