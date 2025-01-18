@@ -47,8 +47,8 @@ namespace AcunMedyaAkademiPortfolyo.Controllers
         public ActionResult UpdateSocialMedia(SocialMedia p)
         {
             var value = db.SocialMedia.Find(p.SocialMediaId);
-            value.SocialMediaImageUrl = p.SocialMediaImageUrl;
             value.SocialMediaUrl = p.SocialMediaUrl;
+            value.SocialMediaImageUrl = p.SocialMediaImageUrl;
             db.SaveChanges();
             return RedirectToAction("Index");
         }
