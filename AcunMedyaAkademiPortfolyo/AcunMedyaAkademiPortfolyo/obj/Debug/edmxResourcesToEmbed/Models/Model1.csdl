@@ -177,6 +177,7 @@
     <FunctionImport Name="sp_upgraddiagrams" />
     <FunctionImport Name="Getlastskilltitle1" ReturnType="Collection(String)" />
     <EntitySet Name="Adress" EntityType="DbProductAcunMedyaModel.Adress" />
+    <EntitySet Name="SocialMedia" EntityType="DbProductAcunMedyaModel.SocialMedia" />
   </EntityContainer>
   <ComplexType Name="sp_helpdiagramdefinition_Result">
     <Property Type="Int32" Name="version" Nullable="true" />
@@ -198,5 +199,13 @@
     <Property Name="Phone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
     <Property Name="Email" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
     <Property Name="Website" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="SocialMedia">
+    <Key>
+      <PropertyRef Name="SocialMediaId" />
+    </Key>
+    <Property Name="SocialMediaId" Type="Int32" Nullable="false" />
+    <Property Name="SocialMediaUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="SocialMediaImageUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
   </EntityType>
 </Schema>

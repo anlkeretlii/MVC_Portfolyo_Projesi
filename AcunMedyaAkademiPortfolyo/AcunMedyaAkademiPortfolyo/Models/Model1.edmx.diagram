@@ -19,6 +19,7 @@
         <EntityTypeShape EntityType="DbProductAcunMedyaModel.Testimonial" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
         <AssociationConnector Association="DbProductAcunMedyaModel.FK_tblProject_Category" ManuallyRouted="false" />
         <EntityTypeShape EntityType="DbProductAcunMedyaModel.Adress" Width="1.5" PointX="0.75" PointY="9.75" />
+        <EntityTypeShape EntityType="DbProductAcunMedyaModel.SocialMedia" Width="1.5" PointX="2.75" PointY="4" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
