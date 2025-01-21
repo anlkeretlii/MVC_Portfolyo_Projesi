@@ -1,0 +1,33 @@
+﻿@model List<AcunMedyaAkademiPortfolyo.Models.Contact>
+
+<div class="col-md-8">
+    <form asp-action="Create" method="post" class="bg-light p-4 p-md-5 contact-form">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <input type="text" name="Name" class="form-control" placeholder="İsminiz" required>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <input type="email" name="Email" class="form-control" placeholder="E Posta Adresiniz" required>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="form-group">
+                    <input type="text" name="Subject" class="form-control" placeholder="Konu" required>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="form-group">
+                    <textarea name="Message" cols="30" rows="7" class="form-control" placeholder="Mesajınız" required></textarea>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="form-group">
+                    <input type="submit" value="Mesaj Gönder" class="btn btn-primary py-3 px-5">
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

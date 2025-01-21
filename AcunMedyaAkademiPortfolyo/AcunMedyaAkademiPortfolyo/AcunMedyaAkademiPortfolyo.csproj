@@ -296,6 +296,7 @@
     <Content Include="Template\clyde-master\images\person_2.jpg" />
     <Content Include="Template\clyde-master\images\person_3.jpg" />
     <Content Include="Template\clyde-master\images\person_4.jpg" />
+    <Content Include="Template\clyde-master\images\Anil2.jpg" />
     <Content Include="Template\clyde-master\images\work-1.jpg" />
     <Content Include="Template\clyde-master\images\work-2.jpg" />
     <Content Include="Template\clyde-master\images\work-3.jpg" />
@@ -335,6 +336,8 @@
     <Content Include="Template\sidebar-07\js\jquery.min.js" />
     <Content Include="Template\sidebar-07\js\main.js" />
     <Content Include="Template\sidebar-07\js\popper.js" />
+    <Content Include="Template\İmages\2.png" />
+    <Content Include="Template\clyde-master\images\anil1.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -607,6 +610,15 @@
     <Content Include="Views\SocialMedia\Index.cshtml" />
     <Content Include="Views\SocialMedia\CreateSocialMedia.cshtml" />
     <Content Include="Views\SocialMedia\UpdateSocialMedia.cshtml" />
+    <Content Include="Views\Default\PartialProfile.cshtml" />
+    <Content Include="Views\Default\PartialHobby.cshtml" />
+    <Content Include="Views\Default\PartialService.cshtml" />
+    <Content Include="Views\Default\PartialProjects.cshtml" />
+    <Content Include="Views\Default\PartialTestimonials.cshtml" />
+    <Content Include="Views\Default\PartialContact.cshtml" />
+    <Content Include="Views\Default\PartialAdress.cshtml" />
+    <Content Include="Views\Default\PartialAlttaraf.cshtml" />
+    <Content Include="Views\Default\Enson.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

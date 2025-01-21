@@ -48,6 +48,11 @@ namespace AcunMedyaAkademiPortfolyo.Controllers
             var values = db.Hobby.ToList();
             return PartialView(values);
         }
+        public PartialViewResult PartialService()
+        {
+            var values = db.Service.ToList();
+            return PartialView(values);
+        }
         public PartialViewResult PartialProjects()
         {
             var values = db.tblProject.ToList();
@@ -68,6 +73,33 @@ namespace AcunMedyaAkademiPortfolyo.Controllers
             ViewBag.TestimonialCount = testimonialcount;
             ViewBag.ProjectCount = projectcount;
             ViewBag.ServiceCount = servicecount;
+            return PartialView();
+        }
+        [HttpGet]
+        public PartialViewResult PartialContact()
+        {
+
+            return PartialView();
+        }
+        [HttpPost]
+        public PartialViewResult PartialContact(Contact p)
+        {
+            db.Contact.Add(p);
+            db.SaveChanges();
+            return PartialView();
+        }
+        public PartialViewResult PartialAdress()
+        {
+            var values = db.Adress.ToList();
+            return PartialView(values);
+        }
+        public PartialViewResult PartialAlttaraf()
+        {
+            var values = db.Service.ToList();
+            return PartialView(values);
+        }
+        public PartialViewResult Enson()
+        {
             return PartialView();
         }
     }

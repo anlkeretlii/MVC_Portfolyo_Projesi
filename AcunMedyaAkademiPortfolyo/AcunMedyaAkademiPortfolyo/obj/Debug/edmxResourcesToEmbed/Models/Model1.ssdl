@@ -60,7 +60,7 @@
       <PropertyRef Name="HobbyId" />
     </Key>
     <Property Name="HobbyId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="IconUrl" Type="varchar" MaxLength="30" />
+    <Property Name="IconUrl" Type="nvarchar(max)" />
     <Property Name="Title" Type="varchar" MaxLength="20" />
   </EntityType>
   <EntityType Name="Profile">
@@ -98,9 +98,9 @@
     <Key>
       <PropertyRef Name="SocialMediaId" />
     </Key>
-    <Property Name="SocialMediaId" Type="int" Nullable="false" />
-    <Property Name="SocialMediaUrl" Type="varchar" MaxLength="150" />
-    <Property Name="SocialMediaImageUrl" Type="varchar" MaxLength="150" />
+    <Property Name="SocialMediaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SocialMediaUrl" Type="nvarchar(max)" />
+    <Property Name="SocialMediaImageUrl" Type="nvarchar(max)" />
   </EntityType>
   <EntityType Name="sysdiagrams">
     <Key>
@@ -118,7 +118,7 @@
     </Key>
     <Property Name="ProjectId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="ProjectName" Type="varchar" MaxLength="30" />
-    <Property Name="ProjectImageUrl" Type="varchar" MaxLength="150" />
+    <Property Name="ProjectImageUrl" Type="nvarchar(max)" />
     <Property Name="ProjectCategory" Type="int" />
   </EntityType>
   <EntityType Name="Testimonial">

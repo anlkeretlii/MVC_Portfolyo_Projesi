@@ -1,0 +1,12 @@
+﻿@model List<AcunMedyaAkademiPortfolyo.Models.Profile>
+
+@foreach (var item in Model)
+{
+    <ul class="about-info mt-4 px-md-0 px-2">
+        <li class="d-flex"><span>İsim  Soyisim:</span> <span>@item.Name</span></li>
+        <li class="d-flex"><span>Doğum Tarihi:</span> <span>@item.Birthday</span></li>
+        <li class="d-flex"><span>Adres:</span> <span>@item.Adress</span></li>
+        <li class="d-flex"><span>E-Posta:</span> <span>@item.Email</span></li>
+        <li class="d-flex"><span>Telefon Numarası: </span> <span>@item.Telephone</span></li>
+    </ul>
+}

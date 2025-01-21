@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\hobby\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\hobby\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\default\\partialcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\default\\partialcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\controllers\\hobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\controllers\\hobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\adminlayout\\sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\adminlayout\\sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\skill\\skilllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\skill\\skilllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\adminlayout\\scriptpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\adminlayout\\scriptpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\default\\partialskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\default\\partialskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\adminlayout\\navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\adminlayout\\navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\adminlayout\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\adminlayout\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\default\\partialalttaraf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\default\\partialalttaraf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\acunmedyaakademiportfolyo\\acunmedyaakademiportfolyo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\acunmedyaakademiportfolyo\\views\\default\\enson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\views\\default\\enson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\acunmedyaakademiportfolyo\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924DD79-8D70-4E4A-83EF-1155B08AEEA4}|AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo.csproj|solutionrelative:acunmedyaakademiportfolyo\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,167 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Hobby\\Index.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Hobby\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Hobby\\Index.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Hobby\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:25:27.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HobbyController.cs",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Controllers\\HobbyController.cs",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Controllers\\HobbyController.cs",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Controllers\\HobbyController.cs",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Controllers\\HobbyController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T16:25:13.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:20:56.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwGQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T16:19:50.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T18:19:36.012Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SidebarPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\SidebarPartial.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\SidebarPartial.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\SidebarPartial.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\SidebarPartial.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:16:15.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PartialSkill.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialSkill.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialSkill.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialSkill.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialSkill.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:15:42.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Skilllist.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Skill\\Skilllist.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Skill\\Skilllist.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Skill\\Skilllist.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Skill\\Skilllist.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:15:23.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScriptPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\ScriptPartial.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\ScriptPartial.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\ScriptPartial.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\ScriptPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:12:28.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NavbarPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\NavbarPartial.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\NavbarPartial.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\NavbarPartial.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\NavbarPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:12:14.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:10:40.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HeadPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\AdminLayout\\HeadPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T16:10:38.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T16:09:44.472Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialContact.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialContact.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialContact.cshtml",
+              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T18:01:29.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialAlttaraf.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialAlttaraf.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialAlttaraf.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialAlttaraf.cshtml",
+              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Default\\PartialAlttaraf.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T18:00:51.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enson.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\Enson.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaAkademiPortfolyo\\Views\\Default\\Enson.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\AcunMedyaAkademiPortfolyo\\AcunMedyaAkademiPortfolyo\\Views\\Default\\Enson.cshtml",
+              "RelativeToolTip": "AcunMedyaAkademiPortfolyo\\Views\\Default\\Enson.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T17:40:06.052Z",
+              "EditorCaption": ""
             }
           ]
         }

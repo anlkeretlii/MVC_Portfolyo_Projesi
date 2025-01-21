@@ -65,7 +65,7 @@
             <PropertyRef Name="HobbyId" />
           </Key>
           <Property Name="HobbyId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-          <Property Name="IconUrl" Type="varchar" MaxLength="30" />
+          <Property Name="IconUrl" Type="nvarchar(max)" />
           <Property Name="Title" Type="varchar" MaxLength="20" />
         </EntityType>
         <EntityType Name="Profile">
@@ -103,9 +103,9 @@
           <Key>
             <PropertyRef Name="SocialMediaId" />
           </Key>
-          <Property Name="SocialMediaId" Type="int" Nullable="false" />
-          <Property Name="SocialMediaUrl" Type="varchar" MaxLength="150" />
-          <Property Name="SocialMediaImageUrl" Type="varchar" MaxLength="150" />
+          <Property Name="SocialMediaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SocialMediaUrl" Type="nvarchar(max)" />
+          <Property Name="SocialMediaImageUrl" Type="nvarchar(max)" />
         </EntityType>
         <EntityType Name="sysdiagrams">
           <Key>
@@ -123,7 +123,7 @@
           </Key>
           <Property Name="ProjectId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="ProjectName" Type="varchar" MaxLength="30" />
-          <Property Name="ProjectImageUrl" Type="varchar" MaxLength="150" />
+          <Property Name="ProjectImageUrl" Type="nvarchar(max)" />
           <Property Name="ProjectCategory" Type="int" />
         </EntityType>
         <EntityType Name="Testimonial">
@@ -256,7 +256,7 @@
             <PropertyRef Name="HobbyId" />
           </Key>
           <Property Name="HobbyId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="IconUrl" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="IconUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
           <Property Name="Title" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
         </EntityType>
         <EntityType Name="Profile">
@@ -306,7 +306,7 @@
           </Key>
           <Property Name="ProjectId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="ProjectName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-          <Property Name="ProjectImageUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="ProjectImageUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
           <Property Name="ProjectCategory" Type="Int32" />
           <NavigationProperty Name="Category" Relationship="Self.FK_tblProject_Category" FromRole="tblProject" ToRole="Category" />
         </EntityType>
@@ -410,8 +410,8 @@
             <PropertyRef Name="SocialMediaId" />
           </Key>
           <Property Name="SocialMediaId" Type="Int32" Nullable="false" />
-          <Property Name="SocialMediaUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
-          <Property Name="SocialMediaImageUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="SocialMediaUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="SocialMediaImageUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
