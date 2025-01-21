@@ -14,10 +14,10 @@
       <PropertyRef Name="AdressId" />
     </Key>
     <Property Name="AdressId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="Adres" Type="varchar" MaxLength="50" />
+    <Property Name="Adres" Type="varchar" MaxLength="100" />
     <Property Name="Phone" Type="varchar" MaxLength="20" />
-    <Property Name="Email" Type="varchar" MaxLength="20" />
-    <Property Name="Website" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Website" Type="varchar" MaxLength="100" />
   </EntityType>
   <EntityType Name="Banner">
     <Key>
@@ -120,6 +120,7 @@
     <Property Name="ProjectName" Type="varchar" MaxLength="30" />
     <Property Name="ProjectImageUrl" Type="nvarchar(max)" />
     <Property Name="ProjectCategory" Type="int" />
+    <Property Name="ProjectGitLink" Type="nvarchar" MaxLength="500" />
   </EntityType>
   <EntityType Name="Testimonial">
     <Key>
@@ -127,9 +128,9 @@
     </Key>
     <Property Name="TestimonialId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="TestimonialName" Type="varchar" MaxLength="30" />
-    <Property Name="TestimonialTitle" Type="varchar" MaxLength="30" />
-    <Property Name="TestimonialDescription" Type="varchar" MaxLength="100" />
-    <Property Name="TestimonialImageUrl" Type="varchar" MaxLength="150" />
+    <Property Name="TestimonialTitle" Type="varchar" MaxLength="50" />
+    <Property Name="TestimonialDescription" Type="nvarchar(max)" />
+    <Property Name="TestimonialImageUrl" Type="nvarchar(max)" />
     <Property Name="Status" Type="bit" />
   </EntityType>
   <Association Name="FK_tblProject_Category">

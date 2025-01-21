@@ -19,10 +19,10 @@
             <PropertyRef Name="AdressId" />
           </Key>
           <Property Name="AdressId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-          <Property Name="Adres" Type="varchar" MaxLength="50" />
+          <Property Name="Adres" Type="varchar" MaxLength="100" />
           <Property Name="Phone" Type="varchar" MaxLength="20" />
-          <Property Name="Email" Type="varchar" MaxLength="20" />
-          <Property Name="Website" Type="varchar" MaxLength="50" />
+          <Property Name="Email" Type="varchar" MaxLength="50" />
+          <Property Name="Website" Type="varchar" MaxLength="100" />
         </EntityType>
         <EntityType Name="Banner">
           <Key>
@@ -125,6 +125,7 @@
           <Property Name="ProjectName" Type="varchar" MaxLength="30" />
           <Property Name="ProjectImageUrl" Type="nvarchar(max)" />
           <Property Name="ProjectCategory" Type="int" />
+          <Property Name="ProjectGitLink" Type="nvarchar" MaxLength="500" />
         </EntityType>
         <EntityType Name="Testimonial">
           <Key>
@@ -132,9 +133,9 @@
           </Key>
           <Property Name="TestimonialId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="TestimonialName" Type="varchar" MaxLength="30" />
-          <Property Name="TestimonialTitle" Type="varchar" MaxLength="30" />
-          <Property Name="TestimonialDescription" Type="varchar" MaxLength="100" />
-          <Property Name="TestimonialImageUrl" Type="varchar" MaxLength="150" />
+          <Property Name="TestimonialTitle" Type="varchar" MaxLength="50" />
+          <Property Name="TestimonialDescription" Type="nvarchar(max)" />
+          <Property Name="TestimonialImageUrl" Type="nvarchar(max)" />
           <Property Name="Status" Type="bit" />
         </EntityType>
         <Association Name="FK_tblProject_Category">
@@ -309,6 +310,7 @@
           <Property Name="ProjectImageUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
           <Property Name="ProjectCategory" Type="Int32" />
           <NavigationProperty Name="Category" Relationship="Self.FK_tblProject_Category" FromRole="tblProject" ToRole="Category" />
+          <Property Name="ProjectGitLink" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
         </EntityType>
         <EntityType Name="Testimonial">
           <Key>
@@ -316,9 +318,9 @@
           </Key>
           <Property Name="TestimonialId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="TestimonialName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-          <Property Name="TestimonialTitle" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-          <Property Name="TestimonialDescription" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
-          <Property Name="TestimonialImageUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="TestimonialTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="TestimonialDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="TestimonialImageUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
           <Property Name="Status" Type="Boolean" />
         </EntityType>
         <Association Name="FK_tblProject_Category">
@@ -400,10 +402,10 @@
             <PropertyRef Name="AdressId" />
           </Key>
           <Property Name="AdressId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Adres" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
           <Property Name="Phone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
-          <Property Name="Email" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
-          <Property Name="Website" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Website" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
         </EntityType>
         <EntityType Name="SocialMedia">
           <Key>
@@ -526,6 +528,7 @@
           <EntitySetMapping Name="tblProject">
             <EntityTypeMapping TypeName="DbProductAcunMedyaModel.tblProject">
               <MappingFragment StoreEntitySet="tblProject">
+                <ScalarProperty Name="ProjectGitLink" ColumnName="ProjectGitLink" />
                 <ScalarProperty Name="ProjectId" ColumnName="ProjectId" />
                 <ScalarProperty Name="ProjectName" ColumnName="ProjectName" />
                 <ScalarProperty Name="ProjectImageUrl" ColumnName="ProjectImageUrl" />

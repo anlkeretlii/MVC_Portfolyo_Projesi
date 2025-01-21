@@ -18,6 +18,7 @@ namespace AcunMedyaAkademiPortfolyo.Models
         public string ProjectName { get; set; }
         public string ProjectImageUrl { get; set; }
         public Nullable<int> ProjectCategory { get; set; }
+        public string ProjectGitLink { get; set; }
     
         public virtual Category Category { get; set; }
     }

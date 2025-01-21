@@ -108,6 +108,7 @@
     <EntitySetMapping Name="tblProject">
       <EntityTypeMapping TypeName="DbProductAcunMedyaModel.tblProject">
         <MappingFragment StoreEntitySet="tblProject">
+          <ScalarProperty Name="ProjectGitLink" ColumnName="ProjectGitLink" />
           <ScalarProperty Name="ProjectId" ColumnName="ProjectId" />
           <ScalarProperty Name="ProjectName" ColumnName="ProjectName" />
           <ScalarProperty Name="ProjectImageUrl" ColumnName="ProjectImageUrl" />

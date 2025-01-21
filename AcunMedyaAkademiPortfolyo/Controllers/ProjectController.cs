@@ -49,6 +49,7 @@ namespace AcunMedyaAkademiPortfolyo.Controllers
             value.ProjectName = p.ProjectName;
             value.ProjectImageUrl = p.ProjectImageUrl;
             value.ProjectCategory = p.ProjectCategory;
+            value.ProjectGitLink = p.ProjectGitLink;
             db.SaveChanges();
             return RedirectToAction("Index");
         }

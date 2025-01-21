@@ -104,6 +104,7 @@
     <Property Name="ProjectImageUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
     <Property Name="ProjectCategory" Type="Int32" />
     <NavigationProperty Name="Category" Relationship="Self.FK_tblProject_Category" FromRole="tblProject" ToRole="Category" />
+    <Property Name="ProjectGitLink" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
   </EntityType>
   <EntityType Name="Testimonial">
     <Key>
@@ -111,9 +112,9 @@
     </Key>
     <Property Name="TestimonialId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="TestimonialName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-    <Property Name="TestimonialTitle" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-    <Property Name="TestimonialDescription" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
-    <Property Name="TestimonialImageUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="TestimonialTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TestimonialDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TestimonialImageUrl" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
     <Property Name="Status" Type="Boolean" />
   </EntityType>
   <Association Name="FK_tblProject_Category">
@@ -195,10 +196,10 @@
       <PropertyRef Name="AdressId" />
     </Key>
     <Property Name="AdressId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-    <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Adres" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
     <Property Name="Phone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
-    <Property Name="Email" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
-    <Property Name="Website" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Website" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
   </EntityType>
   <EntityType Name="SocialMedia">
     <Key>

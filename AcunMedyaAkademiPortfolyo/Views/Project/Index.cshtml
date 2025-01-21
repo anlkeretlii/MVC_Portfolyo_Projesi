@@ -11,6 +11,7 @@
         <th>Proje Adı</th>
         <th>Proje Resmi</th>
         <th>Proje Kategorisi</th>
+        <th>Proje Github Linki</th>
         <th>Güncelle</th>
         <th>Sil</th>
     </tr>
@@ -21,6 +22,7 @@
             <td>@item.ProjectName</td>
             <td><img src="@item.ProjectImageUrl" alt="Image" style="max-width: 100px; max-height: 100px;" /></td>
             <td>@item.ProjectCategory</td>
+            <td><a href="@item.ProjectGitLink" target="_blank">@item.ProjectGitLink</a></td>
             <td><a href="/Project/UpdateProject/@item.ProjectId" class="btn btn-warning">Güncelle</a></td>
             <td><a href="/Project/DeleteProject/@item.ProjectId" class="btn btn-danger">Sil</a></td>
         </tr>
